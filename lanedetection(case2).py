@@ -1,3 +1,6 @@
+#This code is for the second case where we used Socket; We run this code first on our computer and then we run another code in the raspberry pi once the connection is established 
+#we see the results
+
 import cv2
 import numpy as np
 import socket
